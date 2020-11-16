@@ -1,5 +1,5 @@
 # Airplane Crashes
-![October]()
+![plane](plane.jpg)
 
 # Overview 
 Airplane transportation is an exciting and brilliant invention. Even though they are being flown all around the globe, but flying comes with many risks. The dataset I am using is available through [data.world](https://data.world/data-society/airplane-crashes#_=_). In this homework I will use kmeans as the clustering algorithm to create 5 clusters, by predicting words from the text and extracting labels from the Airplane Crash data. Experimental results have shown that kmeans prediction performance is good for 2 out of 5 clusters.
