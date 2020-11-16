@@ -14,7 +14,7 @@ The fact that instances of the plane crash are not particularly normal, they are
 
 Table of Contents -
 
-Technical Notebook               : [PlaneCrash](https://github.com/sanashar/breast_power_project1/tree/main/notebooks)
+Technical Notebook               : [PlaneCrash](https://github.com/sanashar/Airplane_Crashes/tree/main/Notebook)
 
 Summary Report       : [Report](https://github.com/sanashar/breast_power_project1/tree/main/reports)
 
