@@ -16,7 +16,7 @@ Table of Contents -
 
 Technical Notebook               : [PlaneCrash](https://github.com/sanashar/Airplane_Crashes/tree/main/Notebook)
 
-Summary Report       : [Report](https://github.com/sanashar/breast_power_project1/tree/main/reports)
+Summary Report       : [Report](https://github.com/sanashar/Airplane_Crashes/tree/main/Summary%20Report)
 
 # Data Summary
 The Airplane Crash dataset is available through [data.world](https://data.world/data-society/airplane-crashes#_=_) that has the crash data from 1908 to 2009. It has 5268 rows and 13 columns and dtype as float and object. It includes all aviation accidents reported in the United States, its territories and possessions, and in international waters. This is a great dataset to help us sol ve our business problem, by exploring this dataset I hope it will teach us how to improve the quality and safety of traveling by Airplane.
